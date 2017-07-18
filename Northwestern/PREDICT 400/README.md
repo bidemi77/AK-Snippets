@@ -9,3 +9,4 @@ While there was homework each week, there was also discussion topics that involv
 - [Week 2 - Linear Equations and the Echelon or Gauss-Jordan Methods](https://github.com/alanrkessler/AK-Snippets/blob/master/Northwestern/PREDICT%20400/Insurance%20Rating.ipynb)
 - [Week 3 - Solving Minimization Problems](https://github.com/alanrkessler/AK-Snippets/blob/master/Northwestern/PREDICT%20400/Diet%20Optimization.ipynb)
 - [Week 4 - Game Applications](https://github.com/alanrkessler/AK-Snippets/blob/master/Northwestern/PREDICT%20400/Chutes%20and%20Ladders.ipynb)
+- [Week 5 - Probability and the Media](https://github.com/alanrkessler/AK-Snippets/blob/master/Northwestern/PREDICT%20400/NBA Draft Lottery.ipynb)
