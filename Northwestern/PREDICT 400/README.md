@@ -11,3 +11,4 @@ While there was homework each week, there was also discussion topics that involv
 - [Week 4 - Game Applications](https://github.com/alanrkessler/AK-Snippets/blob/master/Northwestern/PREDICT%20400/Chutes%20and%20Ladders.ipynb)
 - [Week 5 - Probability and the Media](https://github.com/alanrkessler/AK-Snippets/blob/master/Northwestern/PREDICT%20400/NBA%20Draft%20Lottery.ipynb)
 - Week 6 - Qualitative Discussion
+- Week 7 - Qualitative Discussion
