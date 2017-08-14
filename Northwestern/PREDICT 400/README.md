@@ -13,3 +13,4 @@ While there was homework each week, there was also discussion topics that involv
 - Week 6 - Qualitative Discussion
 - Week 7 - Qualitative Discussion
 - [Week 8 - Time Variant Pricing](https://github.com/alanrkessler/AK-Snippets/blob/master/Northwestern/PREDICT%20400/Time%20Variant%20Pricing.ipynb)
+- [Week 9 - Probability Density Functions](https://github.com/alanrkessler/AK-Snippets/blob/master/Northwestern/PREDICT%20400/Probability%20Density%20Functions.ipynb)
