@@ -1,8 +1,6 @@
 # Course Description
 
-Review of fundamental concepts from calculus, linear algebra, and probability with a focus upon applications in statistics and predictive modeling. The topics covered will include systems of linear equations and matrices, linear programming, concepts of probability underlying both classical and Bayesian statistics, differential calculus and integration. 
-
-While there was homework each week, there was also discussion topics that involved Python. I have included each week's assignment below. 
+This course teaches students fundamentals of statistical analysis. This includes evaluating statistical information, performing data analyses, interpreting and communicating analytical results. The course requires students to learn use of the programming language R for statistical analysis. In addition to learning R programming, topics covered include descriptive statistics, data display, central tendency, dispersion, exploratory data analysis; probability; discrete and continuous distributions such as the normal distribution; inference, including confidence intervals and hypothesis testing; correlation; multiple linear regression; contingency tables and chi-square. Selected contemporary statistical concepts are introduced to supplement traditional statistical methods.  
 
 ## Assignments
 - [Week 1 - Linear Functions](https://github.com/alanrkessler/AK-Snippets/blob/master/Northwestern/PREDICT%20400/win_and_war.ipynb)
