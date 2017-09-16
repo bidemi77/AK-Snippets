@@ -4,4 +4,4 @@ Useful snippets, small projects, and work from my Masters in Data Science from N
 
 ## Links
 - [Northwestern University Masters in Data Science](/Northwestern)
-- [Meaningful Model Comparison](/"Lift Charts")
+- [Meaningful Model Comparison](/Lift%20Charts)
