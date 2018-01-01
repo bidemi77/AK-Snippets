@@ -1,4 +1,4 @@
-# Northwestern University - Masters in Predictive Analytics
+# Northwestern University - Masters in Data Science
 
 This directory contains a sample of the work I have done related to this program. 
 
