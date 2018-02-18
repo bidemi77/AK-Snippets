@@ -11,7 +11,11 @@ This section of the course uses Python.
 	* [Bonus Calculations 1](Bonus_Calculations_1.ipynb)
 	* [Assignment 1 - Code](Assignment_1.ipynb)
 	* [Assignment 1 - Report](Assignment_1.pdf)
-- Unit 2 
+- Unit 2
 	* [Bonus Calculations 2](Bonus_Calculations_2.ipynb)
 	* [Assignment 2 - Code](Assignment_2.ipynb)
 	* [Assignment 2 - Report](Assignment_2.pdf)
+- Unit 3
+	* [Bonus Assignment](Bonus_3.pdf)
+	* [Assignment 3 - Code](Assignment_3.ipynb)
+	* [Assignment 3 - Report](Assignment_3.pdf)
