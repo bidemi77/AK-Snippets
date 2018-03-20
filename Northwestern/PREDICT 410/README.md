@@ -19,3 +19,7 @@ This section of the course uses Python.
 	* [Bonus Assignment](Bonus_3.pdf)
 	* [Assignment 3 - Code](Assignment_3.ipynb)
 	* [Assignment 3 - Report](Assignment_3.pdf)
+- Unit 4
+	* [Bonus Assignment](Bonus_4.pdf)
+	* [Assignment 4 - Code](Assignment_4ipynb)
+	* [Assignment 4 - Report](Assignment_4.pdf)
